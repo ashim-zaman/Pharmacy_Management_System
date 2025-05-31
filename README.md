@@ -11,5 +11,6 @@ View medicine list
 File handling for data storage (no database used)
 This was my first programming project, built to strengthen my understanding of C language fundamentals and practical coding.
 
-Admin username : admin
+Admin username : admin 
+&
 password       : 1234
